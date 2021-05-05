@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "741521659876",
+    "project_id": "taxiapp-76492",
+    "storage_bucket": "taxiapp-76492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741521659876:android:1ef89b08c3331a1a4f19f1",
+        "android_client_info": {
+          "package_name": "com.teamj.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741521659876-b81f28niqupgb3v3ba2mfhltbbbciohc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyv7st3o3N9VqJFITRDALVIEmeTNxUM5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741521659876-b81f28niqupgb3v3ba2mfhltbbbciohc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741521659876-v2s56pie4hb6muf9qfqd4hs9vgi0d5dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamj.taxirider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
